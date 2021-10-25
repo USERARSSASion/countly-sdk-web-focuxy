@@ -1,6 +1,6 @@
 {
-  "name": "countly-sdk-web",
-  "version": "20.11.3",
+  "name": "countly-sdk-web-cip",
+  "version": "1.0.0",
   "description": "Countly Web SDK",
   "main": "lib/countly.js",
   "directories": {
@@ -23,7 +23,7 @@
     "Analytics",
     "Web"
   ],
-  "author": "Countly <hello@count.ly> (https://count.ly/)",
+  "author": "npm_ming",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Countly/countly-sdk-web/issues"
@@ -38,7 +38,7 @@
     "webpack": "^5.24.1",
     "webpack-cli": "^4.2.0"
   },
-  "npmName": "countly-sdk-web",
+  "npmName": "countly-sdk-web-cip",
   "npmFileMap": [
     {
       "basePath": "lib",
